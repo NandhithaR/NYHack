@@ -8,4 +8,5 @@ Visualizations in osmnx and folium
 # References
 
 https://jeffmacaluso.github.io/post/StreamingManhattanTraffic/
+
 http://207.251.86.229/nyc-links-cams/LinkSpeedQuery.txt
